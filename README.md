@@ -1,5 +1,5 @@
 # CROSS-CULTURAL STUDY ON CUTE RECTANGLES
-## Universality and Specificity of the Kindchenschema: A Cross-cultural Study on Cute Rectangles
+## Universality and Specificity of the Kindchenschema
 
 ##### This repository is for sharing the experiment data and materials of for the manuscript for Psychology of Aesthetics, Creativity, and the Arts
 
