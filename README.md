@@ -18,7 +18,7 @@ In a pretest, we intended to show that Kindchenschema can deliver the meaning of
 #### Experiment Materials
 
 1. Actionscript(Adobe Flash cs5) code: [Pretest-code-rect-design.as](./Pretest-code-rect-design.as) & [Pretest-code-php.as](./Pretest-code-php.as)
-2. Interface design and working software (except the database): [Pretest-interface.swf](./Pretest-interface.swf)
+2. Interface design and working software (except the database): [Pretest-interface.swf](./Pretest-interface.swf) & [Figure01](./pretest-Figure01-1400.jpg)
 
 #### Data
 
