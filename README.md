@@ -48,5 +48,9 @@ The dependent variables included scales that measured the perceived cuteness of 
 
 ---
 
+### Figures
+
+[Download all figures](./figures.zip)
+
 ##### Citation 
 (TBA)
