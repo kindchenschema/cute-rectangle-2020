@@ -39,7 +39,7 @@ To test whether participants’ cultural self-construals affect the perception o
 
 The dependent variables included scales that measured the perceived cuteness of rectangles (anchored with not_at_all_cute vs. cute) and nine additional semantic differential scales (Osgood, Suci, & Tannenbaum, 1957) as follows in 7 scales; positive–negative, weak–strong, active–passive, feminine–masculine, friendly–hostile, unlikable–likable, silly–sensible, cold–warm, and unattractive–attractive. The word pairs were presented to the participants in a randomized order. 
 
-1. Survey instructions + Semantic Differentials: [MainStudy-EN-instruction&Quesitins.pdf](./MainStudy-EN-instruction&Quesitins.pdf)
+1. Survey instructions + Semantic Differentials: [MainStudy-EN-instruction&Questions.pdf](./MainStudy-EN-Instruction&Quesitons.pdf)
 2. Translation of survey questions: [Singlis1994-Balkan3-Estonian-Latvian-Lithuanian.pdf](./Singlis1994-Balkan3-Estonian-Latvian-Lithuanian.pdf) & [Singlis1994-Korean.pdf](./Singlis1994-Korean.pdf)
 
 #### Data
